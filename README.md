@@ -65,10 +65,9 @@ The results suggested that the dataset has a practical performance ceiling under
 
 ## How To Run
 
-Open the notebook from this folder so relative paths resolve correctly:
+Open the notebook from the repository root so relative paths resolve correctly:
 
 ```bash
-cd /Users/qiankangwang/Desktop/personal-portfolio/demos/graduate-statistics/statistical-learning/original-repo
 jupyter notebook Project.ipynb
 ```
 
